@@ -63,3 +63,7 @@ button:active {
 .header h1 {
   font-size: 64px;
 }
+
+.header p {
+  font-size: 20px;
+}
