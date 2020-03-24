@@ -67,3 +67,10 @@ button:active {
 .header p {
   font-size: 20px;
 }
+
+.linkbar {
+  padding: 4px;
+  text-align: center;
+  background: #c8b18b;
+  color: white;
+}
