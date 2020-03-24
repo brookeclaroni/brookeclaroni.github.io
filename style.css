@@ -18,7 +18,7 @@ p {
 
 a:link {
     text-decoration: none;
-    color: #0096d6
+    color: #3674d8
 }
 
 a:visited {
@@ -32,25 +32,6 @@ a:hover {
 
 a:active {
     text-decoration: underline;
-}
-
-button {
-    background-color: #36d887;
-    border: none;
-    color: white;
-    padding: 10px 15px 10px 15px;
-    border-radius: 3px;
-    border: 1px solid #2bbc74;
-    font-size: 1em;
-    outline: none;
-}
-
-button:hover {
-    background-color: #3de290;
-}
-
-button:active {
-    background-color: #2dc67a;
 }
 
 .header {
