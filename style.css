@@ -74,3 +74,10 @@ button:active {
   background: #c8b18b;
   color: white;
 }
+
+.footer {
+  padding: 8px;
+  text-align: center;
+  background: #033C5A;
+  color: white;
+}
